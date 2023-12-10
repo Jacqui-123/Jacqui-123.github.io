@@ -1,5 +1,7 @@
 # Data Analyst
 
+![headshot]/(/assets/headshod.PNG)
+
 ### Education
 Master's of Environmental Science
 
@@ -9,8 +11,12 @@ Master's of Environmental Science
 
 ### Projects
 -clustering analyses, data pipelines, etc
+
 -SQL proj
--Python proje
+
+-Python project 
+
+[Ice cycle variables](https://rpubs.com/Jacqui-123/1093734)
 
 ### Tableau 
 
