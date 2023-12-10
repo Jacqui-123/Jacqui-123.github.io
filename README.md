@@ -1,6 +1,6 @@
 # Data Analyst
 
-![headshot]/(/assets/headshod.PNG)
+![headshot]/(/assets/headshot.PNG)
 
 ### Education
 Master's of Environmental Science
