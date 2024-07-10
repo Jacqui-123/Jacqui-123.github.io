@@ -1,0 +1,16 @@
+---
+title: "Jacqui Levy"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/jacqui-levy-353208a2/
+    - icon: github
+      text: Github
+      href: https://github.com/Jacqui-123
+
+---
+
+About this blog
